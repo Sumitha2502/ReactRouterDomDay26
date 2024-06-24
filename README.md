@@ -1,8 +1,4 @@
-# React + Vite
+Created the navigation for courses like All, full stack development, Data science , Cyber Security and Career using react router dom and added the contents
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Deployed URL:
+https://rainbow-lamington-9c8b44.netlify.app/all
